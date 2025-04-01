@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(189, 218, 244);
+    margin: 0px;
+    padding: 0px;
+}
+
+
+div{
+    width: 170px;
+    height: 270px;
+    background-color: white;
+    border-radius: 10px;
+    justify-content: center;
+    box-shadow: inset;
+    text-align: center;
+    
+    margin: auto;
+    margin-top: 100px;
+}
+
+
+
+
+
+img{
+    
+    width: 150px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+h4{
+    font-size: smaller;
+    font-weight: bold;
+    text-align: center;
+    margin-top: auto;
+}
+
+P{
+    font-size: 0.5em;
+    text-align: center;
+    color: gray;
+    font-weight: bold;
+}
+
+div,h4,p{
+    line-height: 1.1;
+}
